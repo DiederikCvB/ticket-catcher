@@ -1,1 +1,9 @@
 # ticket-catcher
+
+# Summary
+This project aims to find tickets that very likely can be traded at a margin.
+### Outline
+* Analyze the outsold date and other features of tickets at ticketmaster.nl
+* Construct classifier to predict outsold dates of new ticket offers using custom loss matrix for error calculation
+* Automatically classify new ticket offers
+* Notify user when a new ticket is likely to get outsold and can be bought easily
