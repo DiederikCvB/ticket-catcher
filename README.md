@@ -7,3 +7,7 @@ This project aims to find tickets for events that very likely can be traded at a
 * Construct classifier to predict outsold dates of new ticket offers using custom loss matrix for error calculation
 * Automatically classify new ticket offers
 * Notify user when a new ticket is likely to get outsold and can be bought easily
+
+### Links
+* KDE: https://github.com/princelab/KDER/blob/master/lib/kder/kde.rb
+* KNN: https://github.com/JonMidhir/ruby-knn
