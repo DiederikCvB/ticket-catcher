@@ -1,0 +1,22 @@
+source 'https://rubygems.org'
+gem 'rspec', '~> 3.5.0'
+gem 'capybara', '~> 2.12.1'
+gem 'capybara-webkit'
+
+# Firefox
+gem 'selenium-webdriver', '~> 3.2.2'
+
+# PhantomJS
+gem 'poltergeist'
+
+# Chrome
+gem 'chromedriver-helper'
+
+gem 'pry'
+gem 'byebug'
+
+gem 'cucumber'
+
+gem 'json'
+gem 'headless'
+
