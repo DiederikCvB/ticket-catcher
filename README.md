@@ -10,6 +10,7 @@ This project aims to find tickets for events that very likely can be traded at a
 
 ### Links
 * KDE: https://github.com/princelab/KDER/blob/master/lib/kder/kde.rb
+* KDEPython: https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/
 * KNN: https://github.com/JonMidhir/ruby-knn
 * Data: https://www.krautcomputing.com/blog/2015/09/21/rubys-built-in-databases-meet-pstore-and-yamlstore/
 * CallsfromRuby: https://stackoverflow.com/questions/6338908/ruby-difference-between-exec-system-and-x-or-backticks
