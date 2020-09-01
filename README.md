@@ -1,12 +1,12 @@
-# ticket-catcher
+# ticket-catcher Charity project
 
 # Summary
-This project aims to find tickets for events that very likely can be traded at a margin by selling them at a later time.
+This project aims to classify tickets for live music events with high chance to sell out. The purpose is to buy the tickets early so that they can be traded at a margin by selling them after the tickets are sold-out in regular distribution. The majority of the margin will be donated to a charity of choice as chosen by the customer. Customer may chose to contribute to service as one of the charities.
 ### Outline
 * Extract the outsold date and other features of tickets at concert ticket sale websites
-* Construct classifier to predict outsold dates of new ticket offers using custom loss matrix for error calculation
+* Construct classifier to predict outsold dates of new ticket offers using custom loss matrix(ticket price) for error calculation
 * Automatically classify new ticket offers
-* Notify user when a new ticket is likely to get outsold and can be bought easily
+* Notify admin when a new ticket is likely to get outsold and can be bought easily
 
 ### Links
 * KDE: https://github.com/princelab/KDER/blob/master/lib/kder/kde.rb
